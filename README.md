@@ -1,3 +1,3 @@
 # OpenGL-2D-Project
 
-2D transformations
+Project files under Proiect_ (2D transformations) + other applications
